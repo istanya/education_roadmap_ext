@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Education Roadmap Extension",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon-brain.png",
+    "default_popup": "browser_action.html"
+  }
+}
